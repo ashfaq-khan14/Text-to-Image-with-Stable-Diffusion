@@ -289,16 +289,6 @@ The code in this repository is released under the MIT License.
 
 The weights are available via [the StabilityAI organization at Hugging Face](https://huggingface.co/StabilityAI), and released under the [CreativeML Open RAIL++-M License](LICENSE-MODEL) License.
 
-## BibTeX
 
-```
-@misc{rombach2021highresolution,
-      title={High-Resolution Image Synthesis with Latent Diffusion Models}, 
-      author={Robin Rombach and Andreas Blattmann and Dominik Lorenz and Patrick Esser and Björn Ommer},
-      year={2021},
-      eprint={2112.10752},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
 ```
 
