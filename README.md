@@ -1,8 +1,10 @@
 # Text-to-Image-with-Stable-Diffusion
 # Stable Diffusion Version 2
-![t2i](assets/stable-samples/txt2img/768/merged-0006.png)
-![t2i](assets/stable-samples/txt2img/768/merged-0002.png)
-![t2i](assets/stable-samples/txt2img/768/merged-0005.png)
+![image](https://github.com/ashfaq-khan14/Text-to-Image-with-Stable-Diffusion/assets/120010803/7fd80fb6-cd76-47f2-8525-a007e39e8a8e)
+![image](https://github.com/ashfaq-khan14/Text-to-Image-with-Stable-Diffusion/assets/120010803/feef25c5-3146-432c-9f96-7a9ed135f0c8)
+![image](https://github.com/ashfaq-khan14/Text-to-Image-with-Stable-Diffusion/assets/120010803/b908e8a3-ab0d-48c7-8045-522f80c0a733)
+
+
 
 This repository contains [Stable Diffusion](https://github.com/CompVis/stable-diffusion) models trained from scratch and will be continuously updated with
 new checkpoints. The following list provides an overview of all currently available models. More coming soon.
